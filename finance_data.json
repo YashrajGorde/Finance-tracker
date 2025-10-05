@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "id": 1758030313.047689,
+      "amount": 500000.0,
+      "category": "salary",
+      "description": "happy life",
+      "type": "income",
+      "date": "2025-09-16"
+    }
+  ],
+  "budgets": {}
+}
