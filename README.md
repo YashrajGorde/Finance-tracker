@@ -40,3 +40,5 @@ Since financial data is sensitive, finance trackers include:
 Data encryption
 Secure authentication (like biometrics or two-factor login)
 Cloud backups for data recovery
+
+Thanks for Reading it !
